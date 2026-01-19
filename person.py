@@ -10,3 +10,7 @@ p = Person("Name", "Department")
 
 a = p.get_details()
 print(a)
+
+p1 = Person("Name1", "Department1")
+
+print(p1.get_details())
