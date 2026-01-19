@@ -2,4 +2,24 @@
 1. Pylint
 2. Python
 3. Django (Beautiful syntax)
-4. 
+
+
+1. We covered CPython Memory model & Global Interpreter Lock.
+2. Why Python was consider sub-optimal for web backend?
+3. What changed this situation.?
+4. Basics of class/Objects
+    a. Constructors
+    b. Methods
+    c. Public, Private Protected
+    d. 
+
+Lunch
+..Private, Protected
+
+1. Why Git?
+2. How Git?
+3. Branches
+4. Stadard Branching practies in industry and why its required?
+5. Internet
+6. RESTful APIS
+7. 
