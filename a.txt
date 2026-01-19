@@ -1,0 +1,5 @@
+0. Python 3.8+
+1. Pylint
+2. Python
+3. Django (Beautiful syntax)
+4. 
